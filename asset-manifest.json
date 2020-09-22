@@ -1,23 +1,31 @@
 {
   "files": {
-    "main.css": "/travel/static/css/main.5f361e03.chunk.css",
-    "main.js": "/travel/static/js/main.36d96500.chunk.js",
-    "main.js.map": "/travel/static/js/main.36d96500.chunk.js.map",
+    "main.css": "/travel/static/css/main.18f5cc5f.chunk.css",
+    "main.js": "/travel/static/js/main.030c21f1.chunk.js",
+    "main.js.map": "/travel/static/js/main.030c21f1.chunk.js.map",
     "runtime-main.js": "/travel/static/js/runtime-main.16f54be6.js",
     "runtime-main.js.map": "/travel/static/js/runtime-main.16f54be6.js.map",
-    "static/js/2.7054c213.chunk.js": "/travel/static/js/2.7054c213.chunk.js",
-    "static/js/2.7054c213.chunk.js.map": "/travel/static/js/2.7054c213.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/travel/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d846769b.chunk.js": "/travel/static/js/2.d846769b.chunk.js",
+    "static/js/2.d846769b.chunk.js.map": "/travel/static/js/2.d846769b.chunk.js.map",
     "index.html": "/travel/index.html",
-    "precache-manifest.089593069690311bda86cb73ac3f670a.js": "/travel/precache-manifest.089593069690311bda86cb73ac3f670a.js",
+    "precache-manifest.784d87ddd36122abaa13c23c0fbff57e.js": "/travel/precache-manifest.784d87ddd36122abaa13c23c0fbff57e.js",
     "service-worker.js": "/travel/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/travel/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7054c213.chunk.js.LICENSE.txt": "/travel/static/js/2.7054c213.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/travel/static/media/logo.5d5d9eef.svg"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/travel/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.18f5cc5f.chunk.css.map": "/travel/static/css/main.18f5cc5f.chunk.css.map",
+    "static/js/2.d846769b.chunk.js.LICENSE.txt": "/travel/static/js/2.d846769b.chunk.js.LICENSE.txt",
+    "static/media/banner.jpg": "/travel/static/media/banner.9bccb94c.jpg",
+    "static/media/banner2.jpg": "/travel/static/media/banner2.141b4a71.jpg",
+    "static/media/Contact.css": "/travel/static/media/banner3.271cd9fb.jpg",
+    "static/media/bg.jpg": "/travel/static/media/bg.fc5016a7.jpg",
+    "static/media/img1.jpg": "/travel/static/media/img1.8399aa25.jpg",
+    "static/media/video-2.mp4": "/travel/static/media/video-2.3cb2fa2c.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.16f54be6.js",
-    "static/js/2.7054c213.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.36d96500.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.d846769b.chunk.js",
+    "static/css/main.18f5cc5f.chunk.css",
+    "static/js/main.030c21f1.chunk.js"
   ]
 }
