@@ -6,7 +6,7 @@ import './Header.css'
 function Header() {
   return (
     <div className="container-fluid">
-      <Navbar fixed="top" collapseOnSelect expand="lg" bg="light" variant="light">
+      <Navbar fixed="top" className="color-nav" collapseOnSelect expand="lg" bg="light" variant="light">
         <Navbar.Brand className="navbrand" href="#home">TRAVEL</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">

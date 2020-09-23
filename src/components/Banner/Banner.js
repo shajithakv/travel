@@ -6,8 +6,8 @@ import ReactPlayer from "react-player";
 function Banner() {
   return (
     <>
-      <div className="container">
-        <div className="banner-container">
+      <div className="container py-4">
+        <div className="banner-container pt-3">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
               <div className="content">
